@@ -7,5 +7,6 @@ namespace WcfService
 {
     public class Test1
     {
+        //Prop en Rama1
     }
 }
